@@ -1,5 +1,3 @@
-# Sign-language-coverter
-
 # Sign Language Video Call Application
 
 A web-based video call application with sign language detection and speech-to-sign conversion capabilities.
